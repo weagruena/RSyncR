@@ -1,0 +1,16 @@
+
+
+
+DOCUMENTATION (Source)
+=========================
+
+Project: RSyncR
+
+Folder: G:/_PROJ/Ruby/Ruby/RSyncR/src
+
+Status: 01.03.2012
+
+------------------------------------------------------------------
+RSyncR.ini	01.03.2012 15:33	# RSyncR configuration
+RSyncR.rb	01.03.2012 15:35	# RSyncR - Incremental backups with RSYNC
+test.cmd	01.03.2012 15:37	rem TEST
